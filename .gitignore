@@ -1,10 +1,9 @@
-node_modules
-.DS_Store
-
-# build
-# dist
 dist
-
-# test
+.DS_Store
+node_modules
 coverage
+temp
+explorations
+TODOs.md
+*.log
 .idea
